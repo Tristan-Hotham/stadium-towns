@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Could Your Town Fit in Its Stadium? Sports Venues Bigger than the Towns They Stand In"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.24087795"
+url: "https://maps.tristanhotham.com/stadium-towns/"
+repository-code: "https://github.com/Tristan-Hotham/stadium-towns"
+license: CC-BY-4.0
+keywords:
+  - "stadiums"
+  - "sports venues"
+  - "capacity"
+  - "small towns"
+  - "Gaelic games"
+  - "college football"
+  - "Wikidata"
+  - "data quality"
